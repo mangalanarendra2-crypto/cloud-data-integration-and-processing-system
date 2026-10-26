@@ -1,0 +1,50 @@
+[
+  {
+    "sku": "SKU-100",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "list_price": 799.0
+  },
+  {
+    "sku": "SKU-101",
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "list_price": 3499.0
+  },
+  {
+    "sku": "SKU-102",
+    "name": "USB-C Hub",
+    "category": "Electronics",
+    "list_price": 1899.0
+  },
+  {
+    "sku": "SKU-200",
+    "name": "Notebook A5",
+    "category": "Stationery",
+    "list_price": 120.0
+  },
+  {
+    "sku": "SKU-201",
+    "name": "Gel Pen Pack",
+    "category": "Stationery",
+    "list_price": 90.0
+  },
+  {
+    "sku": "SKU-300",
+    "name": "Desk Lamp",
+    "category": "Home",
+    "list_price": 1299.0
+  },
+  {
+    "sku": "SKU-301",
+    "name": "Water Bottle",
+    "category": "Home",
+    "list_price": 450.0
+  },
+  {
+    "sku": "SKU-302",
+    "name": "Backpack",
+    "category": "Home",
+    "list_price": 1799.0
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "storage": {
+    "type": "local",
+    "bucket_dir": "cloud_bucket"
+  },
+  "warehouse": "warehouse.db",
+  "sources": {
+    "orders": {"type": "csv", "path": "sample_data/orders.csv"},
+    "products": {"type": "json", "path": "sample_data/products.json", "records_key": "products"},
+    "customers": {
+      "type": "sqlite",
+      "path": "sample_data/customers.db",
+      "query": "SELECT customer_id, name, country FROM customers"
+    }
+  }
+}

@@ -1,0 +1,195 @@
+order_id,order_date,customer_id,customer_name,country,sku,product_name,category,quantity,unit_price,discount,revenue
+O00001,2026-09-05,C007,Grace Lee,USA,SKU-300,Desk Lamp,Home,1,1299.0,0.0,1299.0
+O00002,2026-09-12,C010,Jack Brown,UK,SKU-101,Mechanical Keyboard,Electronics,1,3499.0,0.1,3149.1
+O00003,2026-09-02,C002,Ben Carter,USA,SKU-200,Notebook A5,Stationery,4,120.0,0.05,456.0
+O00004,2026-09-08,C002,Ben Carter,USA,SKU-101,Mechanical Keyboard,Electronics,5,3499.0,0.05,16620.25
+O00005,2026-09-27,C010,Jack Brown,UK,SKU-100,Wireless Mouse,Electronics,1,799.0,0.0,799.0
+O00007,2026-09-02,C009,Isha Mehta,India,SKU-200,Notebook A5,Stationery,2,120.0,0.0,240.0
+O00008,2026-09-05,C009,Isha Mehta,India,SKU-301,Water Bottle,Home,1,450.0,0.1,405.0
+O00009,2026-09-18,C003,Chen Wei,Singapore,SKU-201,Gel Pen Pack,Stationery,1,90.0,0.1,81.0
+O00011,2026-09-19,C001,Asha Rao,India,SKU-101,Mechanical Keyboard,Electronics,5,3499.0,0.0,17495.0
+O00012,2026-09-22,C009,Isha Mehta,India,SKU-302,Backpack,Home,4,1799.0,0.0,7196.0
+O00013,2026-09-19,C008,Hiro Tanaka,Japan,SKU-302,Backpack,Home,3,1799.0,0.0,5397.0
+O00014,2026-09-26,C003,Chen Wei,Singapore,SKU-200,Notebook A5,Stationery,2,120.0,0.0,240.0
+O00016,2026-09-10,C010,Jack Brown,UK,SKU-302,Backpack,Home,1,1799.0,0.0,1799.0
+O00017,2026-09-06,C006,Farid Khan,UAE,SKU-301,Water Bottle,Home,2,450.0,0.05,855.0
+O00018,2026-09-02,C002,Ben Carter,USA,SKU-301,Water Bottle,Home,5,450.0,0.1,2025.0
+O00019,2026-09-11,C006,Farid Khan,UAE,SKU-300,Desk Lamp,Home,5,1299.0,0.05,6170.25
+O00020,2026-09-03,C002,Ben Carter,USA,SKU-302,Backpack,Home,3,1799.0,0.05,5127.15
+O00022,2026-09-10,C007,Grace Lee,USA,SKU-302,Backpack,Home,3,1799.0,0.0,5397.0
+O00023,2026-09-12,C003,Chen Wei,Singapore,SKU-302,Backpack,Home,5,1799.0,0.0,8995.0
+O00024,2026-09-02,C004,Divya Nair,India,SKU-302,Backpack,Home,3,1799.0,0.0,5397.0
+O00025,2026-09-13,C007,Grace Lee,USA,SKU-200,Notebook A5,Stationery,4,120.0,0.0,480.0
+O00026,2026-09-15,C007,Grace Lee,USA,SKU-102,USB-C Hub,Electronics,5,1899.0,0.0,9495.0
+O00027,2026-09-27,C007,Grace Lee,USA,SKU-102,USB-C Hub,Electronics,5,1899.0,0.0,9495.0
+O00028,2026-09-12,C007,Grace Lee,USA,SKU-301,Water Bottle,Home,2,450.0,0.0,900.0
+O00029,2026-09-06,C003,Chen Wei,Singapore,SKU-101,Mechanical Keyboard,Electronics,2,3499.0,0.2,5598.4
+O00030,2026-09-01,C008,Hiro Tanaka,Japan,SKU-200,Notebook A5,Stationery,5,120.0,0.0,600.0
+O00032,2026-09-20,C010,Jack Brown,UK,SKU-300,Desk Lamp,Home,3,1299.0,0.0,3897.0
+O00033,2026-09-15,C009,Isha Mehta,India,SKU-100,Wireless Mouse,Electronics,4,799.0,0.05,3036.2
+O00034,2026-09-13,C002,Ben Carter,USA,SKU-301,Water Bottle,Home,4,450.0,0.2,1440.0
+O00035,2026-09-02,C004,Divya Nair,India,SKU-301,Water Bottle,Home,1,450.0,0.0,450.0
+O00036,2026-09-06,C002,Ben Carter,USA,SKU-302,Backpack,Home,3,1799.0,0.1,4857.3
+O00037,2026-09-04,C001,Asha Rao,India,SKU-100,Wireless Mouse,Electronics,5,799.0,0.0,3995.0
+O00038,2026-09-12,C010,Jack Brown,UK,SKU-101,Mechanical Keyboard,Electronics,1,3499.0,0.0,3499.0
+O00039,2026-09-20,C007,Grace Lee,USA,SKU-200,Notebook A5,Stationery,2,120.0,0.2,192.0
+O00040,2026-09-12,C010,Jack Brown,UK,SKU-201,Gel Pen Pack,Stationery,3,90.0,0.05,256.5
+O00042,2026-09-10,C002,Ben Carter,USA,SKU-302,Backpack,Home,2,1799.0,0.0,3598.0
+O00043,2026-09-24,C005,Emma Stone,UK,SKU-300,Desk Lamp,Home,4,1299.0,0.2,4156.8
+O00044,2026-09-17,C001,Asha Rao,India,SKU-102,USB-C Hub,Electronics,2,1899.0,0.1,3418.2
+O00045,2026-09-05,C009,Isha Mehta,India,SKU-300,Desk Lamp,Home,1,1299.0,0.1,1169.1
+O00046,2026-09-21,C002,Ben Carter,USA,SKU-201,Gel Pen Pack,Stationery,3,90.0,0.1,243.0
+O00047,2026-09-30,C003,Chen Wei,Singapore,SKU-300,Desk Lamp,Home,3,1299.0,0.0,3897.0
+O00048,2026-09-21,C004,Divya Nair,India,SKU-300,Desk Lamp,Home,5,1299.0,0.0,6495.0
+O00049,2026-09-27,C007,Grace Lee,USA,SKU-200,Notebook A5,Stationery,2,120.0,0.0,240.0
+O00050,2026-09-12,C001,Asha Rao,India,SKU-302,Backpack,Home,1,1799.0,0.0,1799.0
+O00051,2026-09-09,C004,Divya Nair,India,SKU-302,Backpack,Home,5,1799.0,0.0,8995.0
+O00052,2026-09-26,C006,Farid Khan,UAE,SKU-302,Backpack,Home,3,1799.0,0.0,5397.0
+O00053,2026-09-04,C004,Divya Nair,India,SKU-200,Notebook A5,Stationery,4,120.0,0.0,480.0
+O00054,2026-09-07,C008,Hiro Tanaka,Japan,SKU-300,Desk Lamp,Home,5,1299.0,0.1,5845.5
+O00055,2026-09-16,C006,Farid Khan,UAE,SKU-100,Wireless Mouse,Electronics,1,799.0,0.2,639.2
+O00056,2026-09-30,C007,Grace Lee,USA,SKU-101,Mechanical Keyboard,Electronics,2,3499.0,0.05,6648.1
+O00057,2026-09-14,C006,Farid Khan,UAE,SKU-102,USB-C Hub,Electronics,1,1899.0,0.2,1519.2
+O00058,2026-09-15,C007,Grace Lee,USA,SKU-301,Water Bottle,Home,1,450.0,0.2,360.0
+O00059,2026-09-06,C003,Chen Wei,Singapore,SKU-102,USB-C Hub,Electronics,1,1899.0,0.0,1899.0
+O00060,2026-09-26,C003,Chen Wei,Singapore,SKU-302,Backpack,Home,5,1799.0,0.1,8095.5
+O00061,2026-09-22,C006,Farid Khan,UAE,SKU-302,Backpack,Home,2,1799.0,0.1,3238.2
+O00062,2026-09-01,C001,Asha Rao,India,SKU-102,USB-C Hub,Electronics,1,1899.0,0.1,1709.1
+O00063,2026-09-14,C004,Divya Nair,India,SKU-102,USB-C Hub,Electronics,2,1899.0,0.0,3798.0
+O00064,2026-09-07,C005,Emma Stone,UK,SKU-201,Gel Pen Pack,Stationery,5,90.0,0.0,450.0
+O00065,2026-09-09,C009,Isha Mehta,India,SKU-300,Desk Lamp,Home,4,1299.0,0.0,5196.0
+O00066,2026-09-30,C006,Farid Khan,UAE,SKU-100,Wireless Mouse,Electronics,4,799.0,0.2,2556.8
+O00067,2026-09-27,C009,Isha Mehta,India,SKU-301,Water Bottle,Home,2,450.0,0.1,810.0
+O00068,2026-09-17,C009,Isha Mehta,India,SKU-102,USB-C Hub,Electronics,1,1899.0,0.05,1804.05
+O00069,2026-09-20,C001,Asha Rao,India,SKU-102,USB-C Hub,Electronics,2,1899.0,0.0,3798.0
+O00070,2026-09-16,C010,Jack Brown,UK,SKU-102,USB-C Hub,Electronics,1,1899.0,0.1,1709.1
+O00071,2026-09-11,C009,Isha Mehta,India,SKU-100,Wireless Mouse,Electronics,5,799.0,0.1,3595.5
+O00072,2026-09-26,C002,Ben Carter,USA,SKU-302,Backpack,Home,5,1799.0,0.0,8995.0
+O00073,2026-09-07,C005,Emma Stone,UK,SKU-200,Notebook A5,Stationery,1,120.0,0.0,120.0
+O00074,2026-09-18,C001,Asha Rao,India,SKU-302,Backpack,Home,1,1799.0,0.05,1709.05
+O00075,2026-09-20,C009,Isha Mehta,India,SKU-300,Desk Lamp,Home,5,1299.0,0.1,5845.5
+O00076,2026-09-23,C005,Emma Stone,UK,SKU-200,Notebook A5,Stationery,4,120.0,0.1,432.0
+O00077,2026-09-17,C004,Divya Nair,India,SKU-302,Backpack,Home,5,1799.0,0.0,8995.0
+O00078,2026-09-27,C008,Hiro Tanaka,Japan,SKU-200,Notebook A5,Stationery,2,120.0,0.05,228.0
+O00079,2026-09-13,C008,Hiro Tanaka,Japan,SKU-101,Mechanical Keyboard,Electronics,3,3499.0,0.0,10497.0
+O00080,2026-09-14,C002,Ben Carter,USA,SKU-200,Notebook A5,Stationery,2,120.0,0.2,192.0
+O00081,2026-09-26,C002,Ben Carter,USA,SKU-201,Gel Pen Pack,Stationery,2,90.0,0.2,144.0
+O00082,2026-09-05,C005,Emma Stone,UK,SKU-300,Desk Lamp,Home,2,1299.0,0.05,2468.1
+O00083,2026-09-24,C002,Ben Carter,USA,SKU-200,Notebook A5,Stationery,4,120.0,0.05,456.0
+O00084,2026-09-22,C004,Divya Nair,India,SKU-102,USB-C Hub,Electronics,2,1899.0,0.2,3038.4
+O00085,2026-09-17,C007,Grace Lee,USA,SKU-301,Water Bottle,Home,3,450.0,0.05,1282.5
+O00086,2026-09-12,C006,Farid Khan,UAE,SKU-200,Notebook A5,Stationery,1,120.0,0.2,96.0
+O00087,2026-09-01,C006,Farid Khan,UAE,SKU-300,Desk Lamp,Home,5,1299.0,0.05,6170.25
+O00088,2026-09-23,C001,Asha Rao,India,SKU-302,Backpack,Home,4,1799.0,0.0,7196.0
+O00089,2026-09-17,C002,Ben Carter,USA,SKU-201,Gel Pen Pack,Stationery,1,90.0,0.0,90.0
+O00090,2026-09-03,C005,Emma Stone,UK,SKU-101,Mechanical Keyboard,Electronics,3,3499.0,0.0,10497.0
+O00091,2026-09-09,C003,Chen Wei,Singapore,SKU-102,USB-C Hub,Electronics,4,1899.0,0.2,6076.8
+O00092,2026-09-13,C003,Chen Wei,Singapore,SKU-201,Gel Pen Pack,Stationery,5,90.0,0.1,405.0
+O00093,2026-09-23,C006,Farid Khan,UAE,SKU-302,Backpack,Home,1,1799.0,0.0,1799.0
+O00094,2026-09-26,C003,Chen Wei,Singapore,SKU-100,Wireless Mouse,Electronics,4,799.0,0.0,3196.0
+O00095,2026-09-01,C002,Ben Carter,USA,SKU-201,Gel Pen Pack,Stationery,3,90.0,0.0,270.0
+O00096,2026-09-03,C005,Emma Stone,UK,SKU-200,Notebook A5,Stationery,1,120.0,0.05,114.0
+O00097,2026-09-11,C009,Isha Mehta,India,SKU-100,Wireless Mouse,Electronics,4,799.0,0.0,3196.0
+O00098,2026-09-02,C009,Isha Mehta,India,SKU-102,USB-C Hub,Electronics,2,1899.0,0.0,3798.0
+O00099,2026-09-09,C001,Asha Rao,India,SKU-102,USB-C Hub,Electronics,2,1899.0,0.0,3798.0
+O00100,2026-09-21,C005,Emma Stone,UK,SKU-201,Gel Pen Pack,Stationery,5,90.0,0.0,450.0
+O00101,2026-09-15,C009,Isha Mehta,India,SKU-201,Gel Pen Pack,Stationery,2,90.0,0.0,180.0
+O00102,2026-09-26,C001,Asha Rao,India,SKU-300,Desk Lamp,Home,3,1299.0,0.0,3897.0
+O00103,2026-09-01,C009,Isha Mehta,India,SKU-100,Wireless Mouse,Electronics,5,799.0,0.0,3995.0
+O00104,2026-09-08,C008,Hiro Tanaka,Japan,SKU-302,Backpack,Home,1,1799.0,0.2,1439.2
+O00105,2026-09-22,C008,Hiro Tanaka,Japan,SKU-301,Water Bottle,Home,5,450.0,0.05,2137.5
+O00106,2026-09-23,C004,Divya Nair,India,SKU-201,Gel Pen Pack,Stationery,2,90.0,0.0,180.0
+O00107,2026-09-27,C003,Chen Wei,Singapore,SKU-200,Notebook A5,Stationery,4,120.0,0.0,480.0
+O00108,2026-09-27,C003,Chen Wei,Singapore,SKU-100,Wireless Mouse,Electronics,1,799.0,0.0,799.0
+O00109,2026-09-14,C003,Chen Wei,Singapore,SKU-201,Gel Pen Pack,Stationery,1,90.0,0.0,90.0
+O00110,2026-09-28,C009,Isha Mehta,India,SKU-301,Water Bottle,Home,3,450.0,0.1,1215.0
+O00111,2026-09-23,C005,Emma Stone,UK,SKU-200,Notebook A5,Stationery,1,120.0,0.05,114.0
+O00112,2026-09-06,C005,Emma Stone,UK,SKU-102,USB-C Hub,Electronics,4,1899.0,0.0,7596.0
+O00113,2026-09-12,C006,Farid Khan,UAE,SKU-201,Gel Pen Pack,Stationery,5,90.0,0.0,450.0
+O00114,2026-09-02,C005,Emma Stone,UK,SKU-200,Notebook A5,Stationery,2,120.0,0.0,240.0
+O00115,2026-09-01,C006,Farid Khan,UAE,SKU-102,USB-C Hub,Electronics,4,1899.0,0.0,7596.0
+O00116,2026-09-09,C009,Isha Mehta,India,SKU-302,Backpack,Home,2,1799.0,0.0,3598.0
+O00117,2026-09-03,C005,Emma Stone,UK,SKU-100,Wireless Mouse,Electronics,1,799.0,0.0,799.0
+O00118,2026-09-19,C001,Asha Rao,India,SKU-301,Water Bottle,Home,4,450.0,0.0,1800.0
+O00119,2026-09-10,C004,Divya Nair,India,SKU-201,Gel Pen Pack,Stationery,1,90.0,0.1,81.0
+O00120,2026-09-22,C010,Jack Brown,UK,SKU-102,USB-C Hub,Electronics,4,1899.0,0.0,7596.0
+O00121,2026-09-05,C005,Emma Stone,UK,SKU-302,Backpack,Home,5,1799.0,0.2,7196.0
+O00122,2026-09-02,C009,Isha Mehta,India,SKU-102,USB-C Hub,Electronics,4,1899.0,0.2,6076.8
+O00123,2026-09-30,C009,Isha Mehta,India,SKU-102,USB-C Hub,Electronics,5,1899.0,0.1,8545.5
+O00124,2026-09-27,C010,Jack Brown,UK,SKU-100,Wireless Mouse,Electronics,2,799.0,0.0,1598.0
+O00125,2026-09-02,C003,Chen Wei,Singapore,SKU-100,Wireless Mouse,Electronics,3,799.0,0.0,2397.0
+O00126,2026-09-27,C008,Hiro Tanaka,Japan,SKU-301,Water Bottle,Home,5,450.0,0.0,2250.0
+O00127,2026-09-21,C009,Isha Mehta,India,SKU-100,Wireless Mouse,Electronics,2,799.0,0.05,1518.1
+O00128,2026-09-01,C008,Hiro Tanaka,Japan,SKU-201,Gel Pen Pack,Stationery,1,90.0,0.2,72.0
+O00129,2026-09-22,C009,Isha Mehta,India,SKU-101,Mechanical Keyboard,Electronics,1,3499.0,0.2,2799.2
+O00130,2026-09-09,C002,Ben Carter,USA,SKU-302,Backpack,Home,3,1799.0,0.0,5397.0
+O00131,2026-09-08,C008,Hiro Tanaka,Japan,SKU-200,Notebook A5,Stationery,4,120.0,0.05,456.0
+O00132,2026-09-16,C005,Emma Stone,UK,SKU-101,Mechanical Keyboard,Electronics,1,3499.0,0.1,3149.1
+O00133,2026-09-03,C010,Jack Brown,UK,SKU-200,Notebook A5,Stationery,2,120.0,0.0,240.0
+O00134,2026-09-21,C005,Emma Stone,UK,SKU-201,Gel Pen Pack,Stationery,5,90.0,0.1,405.0
+O00135,2026-09-01,C008,Hiro Tanaka,Japan,SKU-102,USB-C Hub,Electronics,1,1899.0,0.05,1804.05
+O00136,2026-09-22,C002,Ben Carter,USA,SKU-201,Gel Pen Pack,Stationery,2,90.0,0.2,144.0
+O00137,2026-09-10,C009,Isha Mehta,India,SKU-302,Backpack,Home,3,1799.0,0.05,5127.15
+O00138,2026-09-15,C002,Ben Carter,USA,SKU-302,Backpack,Home,5,1799.0,0.0,8995.0
+O00139,2026-09-03,C008,Hiro Tanaka,Japan,SKU-201,Gel Pen Pack,Stationery,1,90.0,0.0,90.0
+O00140,2026-09-03,C009,Isha Mehta,India,SKU-302,Backpack,Home,4,1799.0,0.0,7196.0
+O00141,2026-09-07,C004,Divya Nair,India,SKU-301,Water Bottle,Home,1,450.0,0.1,405.0
+O00142,2026-09-05,C009,Isha Mehta,India,SKU-101,Mechanical Keyboard,Electronics,3,3499.0,0.0,10497.0
+O00143,2026-09-20,C009,Isha Mehta,India,SKU-102,USB-C Hub,Electronics,3,1899.0,0.0,5697.0
+O00144,2026-09-08,C008,Hiro Tanaka,Japan,SKU-300,Desk Lamp,Home,4,1299.0,0.05,4936.2
+O00145,2026-09-06,C001,Asha Rao,India,SKU-100,Wireless Mouse,Electronics,4,799.0,0.2,2556.8
+O00146,2026-09-13,C005,Emma Stone,UK,SKU-302,Backpack,Home,2,1799.0,0.05,3418.1
+O00147,2026-09-13,C006,Farid Khan,UAE,SKU-300,Desk Lamp,Home,1,1299.0,0.0,1299.0
+O00148,2026-09-11,C006,Farid Khan,UAE,SKU-100,Wireless Mouse,Electronics,4,799.0,0.0,3196.0
+O00149,2026-09-23,C001,Asha Rao,India,SKU-200,Notebook A5,Stationery,3,120.0,0.0,360.0
+O00150,2026-09-03,C007,Grace Lee,USA,SKU-300,Desk Lamp,Home,4,1299.0,0.1,4676.4
+O00151,2026-09-12,C007,Grace Lee,USA,SKU-101,Mechanical Keyboard,Electronics,3,3499.0,0.0,10497.0
+O00152,2026-09-04,C001,Asha Rao,India,SKU-201,Gel Pen Pack,Stationery,3,90.0,0.2,216.0
+O00153,2026-09-08,C005,Emma Stone,UK,SKU-102,USB-C Hub,Electronics,4,1899.0,0.1,6836.4
+O00154,2026-09-07,C006,Farid Khan,UAE,SKU-300,Desk Lamp,Home,4,1299.0,0.0,5196.0
+O00155,2026-09-30,C009,Isha Mehta,India,SKU-301,Water Bottle,Home,5,450.0,0.0,2250.0
+O00156,2026-09-02,C007,Grace Lee,USA,SKU-101,Mechanical Keyboard,Electronics,4,3499.0,0.1,12596.4
+O00157,2026-09-21,C005,Emma Stone,UK,SKU-102,USB-C Hub,Electronics,4,1899.0,0.0,7596.0
+O00158,2026-09-06,C008,Hiro Tanaka,Japan,SKU-102,USB-C Hub,Electronics,4,1899.0,0.0,7596.0
+O00159,2026-09-10,C005,Emma Stone,UK,SKU-201,Gel Pen Pack,Stationery,3,90.0,0.05,256.5
+O00160,2026-09-10,C008,Hiro Tanaka,Japan,SKU-200,Notebook A5,Stationery,5,120.0,0.2,480.0
+O00161,2026-09-04,C003,Chen Wei,Singapore,SKU-301,Water Bottle,Home,2,450.0,0.0,900.0
+O00162,2026-09-17,C008,Hiro Tanaka,Japan,SKU-200,Notebook A5,Stationery,5,120.0,0.0,600.0
+O00163,2026-09-30,C006,Farid Khan,UAE,SKU-302,Backpack,Home,4,1799.0,0.05,6836.2
+O00164,2026-09-18,C004,Divya Nair,India,SKU-102,USB-C Hub,Electronics,2,1899.0,0.0,3798.0
+O00165,2026-09-11,C009,Isha Mehta,India,SKU-102,USB-C Hub,Electronics,1,1899.0,0.0,1899.0
+O00166,2026-09-12,C005,Emma Stone,UK,SKU-200,Notebook A5,Stationery,5,120.0,0.0,600.0
+O00167,2026-09-24,C007,Grace Lee,USA,SKU-100,Wireless Mouse,Electronics,4,799.0,0.05,3036.2
+O00168,2026-09-13,C005,Emma Stone,UK,SKU-200,Notebook A5,Stationery,3,120.0,0.0,360.0
+O00169,2026-09-09,C010,Jack Brown,UK,SKU-302,Backpack,Home,3,1799.0,0.0,5397.0
+O00170,2026-09-03,C005,Emma Stone,UK,SKU-200,Notebook A5,Stationery,2,120.0,0.05,228.0
+O00171,2026-09-21,C008,Hiro Tanaka,Japan,SKU-301,Water Bottle,Home,4,450.0,0.0,1800.0
+O00172,2026-09-05,C001,Asha Rao,India,SKU-100,Wireless Mouse,Electronics,4,799.0,0.2,2556.8
+O00173,2026-09-19,C008,Hiro Tanaka,Japan,SKU-302,Backpack,Home,1,1799.0,0.0,1799.0
+O00174,2026-09-30,C009,Isha Mehta,India,SKU-301,Water Bottle,Home,4,450.0,0.05,1710.0
+O00175,2026-09-26,C002,Ben Carter,USA,SKU-200,Notebook A5,Stationery,2,120.0,0.0,240.0
+O00176,2026-09-17,C002,Ben Carter,USA,SKU-102,USB-C Hub,Electronics,4,1899.0,0.0,7596.0
+O00177,2026-09-01,C003,Chen Wei,Singapore,SKU-100,Wireless Mouse,Electronics,2,799.0,0.1,1438.2
+O00178,2026-09-21,C005,Emma Stone,UK,SKU-100,Wireless Mouse,Electronics,2,799.0,0.2,1278.4
+O00179,2026-09-17,C007,Grace Lee,USA,SKU-201,Gel Pen Pack,Stationery,1,90.0,0.0,90.0
+O00180,2026-09-10,C009,Isha Mehta,India,SKU-101,Mechanical Keyboard,Electronics,5,3499.0,0.0,17495.0
+O00181,2026-09-09,C004,Divya Nair,India,SKU-301,Water Bottle,Home,5,450.0,0.0,2250.0
+O00182,2026-09-18,C005,Emma Stone,UK,SKU-100,Wireless Mouse,Electronics,4,799.0,0.0,3196.0
+O00183,2026-09-21,C004,Divya Nair,India,SKU-300,Desk Lamp,Home,4,1299.0,0.1,4676.4
+O00184,2026-09-18,C004,Divya Nair,India,SKU-200,Notebook A5,Stationery,1,120.0,0.05,114.0
+O00185,2026-09-02,C001,Asha Rao,India,SKU-201,Gel Pen Pack,Stationery,2,90.0,0.05,171.0
+O00186,2026-09-03,C005,Emma Stone,UK,SKU-301,Water Bottle,Home,2,450.0,0.2,720.0
+O00187,2026-09-30,C006,Farid Khan,UAE,SKU-301,Water Bottle,Home,2,450.0,0.05,855.0
+O00188,2026-09-23,C006,Farid Khan,UAE,SKU-100,Wireless Mouse,Electronics,4,799.0,0.0,3196.0
+O00189,2026-09-07,C001,Asha Rao,India,SKU-301,Water Bottle,Home,3,450.0,0.2,1080.0
+O00190,2026-09-07,C008,Hiro Tanaka,Japan,SKU-101,Mechanical Keyboard,Electronics,2,3499.0,0.0,6998.0
+O00191,2026-09-08,C008,Hiro Tanaka,Japan,SKU-200,Notebook A5,Stationery,2,120.0,0.0,240.0
+O00192,2026-09-04,C010,Jack Brown,UK,SKU-201,Gel Pen Pack,Stationery,4,90.0,0.1,324.0
+O00193,2026-09-29,C004,Divya Nair,India,SKU-102,USB-C Hub,Electronics,4,1899.0,0.05,7216.2
+O00194,2026-09-20,C003,Chen Wei,Singapore,SKU-100,Wireless Mouse,Electronics,4,799.0,0.0,3196.0
+O00195,2026-09-01,C010,Jack Brown,UK,SKU-200,Notebook A5,Stationery,2,120.0,0.05,228.0
+O00196,2026-09-23,C001,Asha Rao,India,SKU-100,Wireless Mouse,Electronics,2,799.0,0.05,1518.1
+O00197,2026-09-29,C006,Farid Khan,UAE,SKU-302,Backpack,Home,1,1799.0,0.0,1799.0
+O00198,2026-09-11,C004,Divya Nair,India,SKU-102,USB-C Hub,Electronics,2,1899.0,0.2,3038.4
+O00199,2026-09-02,C005,Emma Stone,UK,SKU-302,Backpack,Home,4,1799.0,0.0,7196.0
+O00200,2026-09-15,C003,Chen Wei,Singapore,SKU-300,Desk Lamp,Home,1,1299.0,0.0,1299.0

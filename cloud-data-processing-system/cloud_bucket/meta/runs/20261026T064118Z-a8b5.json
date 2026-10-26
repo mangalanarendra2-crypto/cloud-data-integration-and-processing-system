@@ -1,0 +1,89 @@
+{
+  "run_id": "20261026T064118Z-a8b5",
+  "status": "SUCCESS",
+  "duration_s": 0.213,
+  "tasks": [
+    {
+      "task": "extract_orders",
+      "status": "SUCCESS",
+      "attempts": 1,
+      "duration_s": 0.002,
+      "rows": 202,
+      "error": null
+    },
+    {
+      "task": "extract_products",
+      "status": "SUCCESS",
+      "attempts": 1,
+      "duration_s": 0.002,
+      "rows": 8,
+      "error": null
+    },
+    {
+      "task": "extract_customers",
+      "status": "SUCCESS",
+      "attempts": 2,
+      "duration_s": 0.201,
+      "rows": 10,
+      "error": null
+    },
+    {
+      "task": "clean_orders",
+      "status": "SUCCESS",
+      "attempts": 1,
+      "duration_s": 0.004,
+      "rows": 196,
+      "error": null
+    },
+    {
+      "task": "integrate",
+      "status": "SUCCESS",
+      "attempts": 1,
+      "duration_s": 0.002,
+      "rows": 194,
+      "error": null
+    },
+    {
+      "task": "agg_daily",
+      "status": "SUCCESS",
+      "attempts": 1,
+      "duration_s": 0.0,
+      "rows": 29,
+      "error": null
+    },
+    {
+      "task": "agg_category",
+      "status": "SUCCESS",
+      "attempts": 1,
+      "duration_s": 0.0,
+      "rows": 3,
+      "error": null
+    },
+    {
+      "task": "agg_country",
+      "status": "SUCCESS",
+      "attempts": 1,
+      "duration_s": 0.0,
+      "rows": 6,
+      "error": null
+    },
+    {
+      "task": "load",
+      "status": "SUCCESS",
+      "attempts": 1,
+      "duration_s": 0.007,
+      "rows": null,
+      "error": null
+    }
+  ],
+  "stats": {
+    "orders_rejected_cleaning": 6,
+    "orders_unmatched": 2,
+    "loaded_tables": {
+      "fact_orders": 194,
+      "daily_sales": 29,
+      "sales_by_category": 3,
+      "sales_by_country": 6
+    }
+  }
+}

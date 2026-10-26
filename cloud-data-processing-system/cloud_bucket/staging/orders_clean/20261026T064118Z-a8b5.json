@@ -1,0 +1,1766 @@
+[
+  {
+    "order_id": "O00001",
+    "order_date": "2026-09-05",
+    "customer_id": "C007",
+    "sku": "SKU-300",
+    "quantity": 1,
+    "unit_price": 1299.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00002",
+    "order_date": "2026-09-12",
+    "customer_id": "C010",
+    "sku": "SKU-101",
+    "quantity": 1,
+    "unit_price": 3499.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00003",
+    "order_date": "2026-09-02",
+    "customer_id": "C002",
+    "sku": "SKU-200",
+    "quantity": 4,
+    "unit_price": 120.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00004",
+    "order_date": "2026-09-08",
+    "customer_id": "C002",
+    "sku": "SKU-101",
+    "quantity": 5,
+    "unit_price": 3499.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00005",
+    "order_date": "2026-09-27",
+    "customer_id": "C010",
+    "sku": "SKU-100",
+    "quantity": 1,
+    "unit_price": 799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00007",
+    "order_date": "2026-09-02",
+    "customer_id": "C009",
+    "sku": "SKU-200",
+    "quantity": 2,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00008",
+    "order_date": "2026-09-05",
+    "customer_id": "C009",
+    "sku": "SKU-301",
+    "quantity": 1,
+    "unit_price": 450.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00009",
+    "order_date": "2026-09-18",
+    "customer_id": "C003",
+    "sku": "SKU-201",
+    "quantity": 1,
+    "unit_price": 90.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00011",
+    "order_date": "2026-09-19",
+    "customer_id": "C001",
+    "sku": "SKU-101",
+    "quantity": 5,
+    "unit_price": 3499.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00012",
+    "order_date": "2026-09-22",
+    "customer_id": "C009",
+    "sku": "SKU-302",
+    "quantity": 4,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00013",
+    "order_date": "2026-09-19",
+    "customer_id": "C008",
+    "sku": "SKU-302",
+    "quantity": 3,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00014",
+    "order_date": "2026-09-26",
+    "customer_id": "C003",
+    "sku": "SKU-200",
+    "quantity": 2,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00016",
+    "order_date": "2026-09-10",
+    "customer_id": "C010",
+    "sku": "SKU-302",
+    "quantity": 1,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00017",
+    "order_date": "2026-09-06",
+    "customer_id": "C006",
+    "sku": "SKU-301",
+    "quantity": 2,
+    "unit_price": 450.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00018",
+    "order_date": "2026-09-02",
+    "customer_id": "C002",
+    "sku": "SKU-301",
+    "quantity": 5,
+    "unit_price": 450.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00019",
+    "order_date": "2026-09-11",
+    "customer_id": "C006",
+    "sku": "SKU-300",
+    "quantity": 5,
+    "unit_price": 1299.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00020",
+    "order_date": "2026-09-03",
+    "customer_id": "C002",
+    "sku": "SKU-302",
+    "quantity": 3,
+    "unit_price": 1799.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00022",
+    "order_date": "2026-09-10",
+    "customer_id": "C007",
+    "sku": "SKU-302",
+    "quantity": 3,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00023",
+    "order_date": "2026-09-12",
+    "customer_id": "C003",
+    "sku": "SKU-302",
+    "quantity": 5,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00024",
+    "order_date": "2026-09-02",
+    "customer_id": "C004",
+    "sku": "SKU-302",
+    "quantity": 3,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00025",
+    "order_date": "2026-09-13",
+    "customer_id": "C007",
+    "sku": "SKU-200",
+    "quantity": 4,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00026",
+    "order_date": "2026-09-15",
+    "customer_id": "C007",
+    "sku": "SKU-102",
+    "quantity": 5,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00027",
+    "order_date": "2026-09-27",
+    "customer_id": "C007",
+    "sku": "SKU-102",
+    "quantity": 5,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00028",
+    "order_date": "2026-09-12",
+    "customer_id": "C007",
+    "sku": "SKU-301",
+    "quantity": 2,
+    "unit_price": 450.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00029",
+    "order_date": "2026-09-06",
+    "customer_id": "C003",
+    "sku": "SKU-101",
+    "quantity": 2,
+    "unit_price": 3499.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00030",
+    "order_date": "2026-09-01",
+    "customer_id": "C008",
+    "sku": "SKU-200",
+    "quantity": 5,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00031",
+    "order_date": "2026-09-10",
+    "customer_id": "C001",
+    "sku": "SKU-999",
+    "quantity": 2,
+    "unit_price": 90.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00032",
+    "order_date": "2026-09-20",
+    "customer_id": "C010",
+    "sku": "SKU-300",
+    "quantity": 3,
+    "unit_price": 1299.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00033",
+    "order_date": "2026-09-15",
+    "customer_id": "C009",
+    "sku": "SKU-100",
+    "quantity": 4,
+    "unit_price": 799.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00034",
+    "order_date": "2026-09-13",
+    "customer_id": "C002",
+    "sku": "SKU-301",
+    "quantity": 4,
+    "unit_price": 450.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00035",
+    "order_date": "2026-09-02",
+    "customer_id": "C004",
+    "sku": "SKU-301",
+    "quantity": 1,
+    "unit_price": 450.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00036",
+    "order_date": "2026-09-06",
+    "customer_id": "C002",
+    "sku": "SKU-302",
+    "quantity": 3,
+    "unit_price": 1799.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00037",
+    "order_date": "2026-09-04",
+    "customer_id": "C001",
+    "sku": "SKU-100",
+    "quantity": 5,
+    "unit_price": 799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00038",
+    "order_date": "2026-09-12",
+    "customer_id": "C010",
+    "sku": "SKU-101",
+    "quantity": 1,
+    "unit_price": 3499.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00039",
+    "order_date": "2026-09-20",
+    "customer_id": "C007",
+    "sku": "SKU-200",
+    "quantity": 2,
+    "unit_price": 120.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00040",
+    "order_date": "2026-09-12",
+    "customer_id": "C010",
+    "sku": "SKU-201",
+    "quantity": 3,
+    "unit_price": 90.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00041",
+    "order_date": "2026-09-04",
+    "customer_id": "C999",
+    "sku": "SKU-101",
+    "quantity": 4,
+    "unit_price": 3499.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00042",
+    "order_date": "2026-09-10",
+    "customer_id": "C002",
+    "sku": "SKU-302",
+    "quantity": 2,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00043",
+    "order_date": "2026-09-24",
+    "customer_id": "C005",
+    "sku": "SKU-300",
+    "quantity": 4,
+    "unit_price": 1299.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00044",
+    "order_date": "2026-09-17",
+    "customer_id": "C001",
+    "sku": "SKU-102",
+    "quantity": 2,
+    "unit_price": 1899.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00045",
+    "order_date": "2026-09-05",
+    "customer_id": "C009",
+    "sku": "SKU-300",
+    "quantity": 1,
+    "unit_price": 1299.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00046",
+    "order_date": "2026-09-21",
+    "customer_id": "C002",
+    "sku": "SKU-201",
+    "quantity": 3,
+    "unit_price": 90.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00047",
+    "order_date": "2026-09-30",
+    "customer_id": "C003",
+    "sku": "SKU-300",
+    "quantity": 3,
+    "unit_price": 1299.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00048",
+    "order_date": "2026-09-21",
+    "customer_id": "C004",
+    "sku": "SKU-300",
+    "quantity": 5,
+    "unit_price": 1299.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00049",
+    "order_date": "2026-09-27",
+    "customer_id": "C007",
+    "sku": "SKU-200",
+    "quantity": 2,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00050",
+    "order_date": "2026-09-12",
+    "customer_id": "C001",
+    "sku": "SKU-302",
+    "quantity": 1,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00051",
+    "order_date": "2026-09-09",
+    "customer_id": "C004",
+    "sku": "SKU-302",
+    "quantity": 5,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00052",
+    "order_date": "2026-09-26",
+    "customer_id": "C006",
+    "sku": "SKU-302",
+    "quantity": 3,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00053",
+    "order_date": "2026-09-04",
+    "customer_id": "C004",
+    "sku": "SKU-200",
+    "quantity": 4,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00054",
+    "order_date": "2026-09-07",
+    "customer_id": "C008",
+    "sku": "SKU-300",
+    "quantity": 5,
+    "unit_price": 1299.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00055",
+    "order_date": "2026-09-16",
+    "customer_id": "C006",
+    "sku": "SKU-100",
+    "quantity": 1,
+    "unit_price": 799.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00056",
+    "order_date": "2026-09-30",
+    "customer_id": "C007",
+    "sku": "SKU-101",
+    "quantity": 2,
+    "unit_price": 3499.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00057",
+    "order_date": "2026-09-14",
+    "customer_id": "C006",
+    "sku": "SKU-102",
+    "quantity": 1,
+    "unit_price": 1899.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00058",
+    "order_date": "2026-09-15",
+    "customer_id": "C007",
+    "sku": "SKU-301",
+    "quantity": 1,
+    "unit_price": 450.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00059",
+    "order_date": "2026-09-06",
+    "customer_id": "C003",
+    "sku": "SKU-102",
+    "quantity": 1,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00060",
+    "order_date": "2026-09-26",
+    "customer_id": "C003",
+    "sku": "SKU-302",
+    "quantity": 5,
+    "unit_price": 1799.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00061",
+    "order_date": "2026-09-22",
+    "customer_id": "C006",
+    "sku": "SKU-302",
+    "quantity": 2,
+    "unit_price": 1799.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00062",
+    "order_date": "2026-09-01",
+    "customer_id": "C001",
+    "sku": "SKU-102",
+    "quantity": 1,
+    "unit_price": 1899.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00063",
+    "order_date": "2026-09-14",
+    "customer_id": "C004",
+    "sku": "SKU-102",
+    "quantity": 2,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00064",
+    "order_date": "2026-09-07",
+    "customer_id": "C005",
+    "sku": "SKU-201",
+    "quantity": 5,
+    "unit_price": 90.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00065",
+    "order_date": "2026-09-09",
+    "customer_id": "C009",
+    "sku": "SKU-300",
+    "quantity": 4,
+    "unit_price": 1299.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00066",
+    "order_date": "2026-09-30",
+    "customer_id": "C006",
+    "sku": "SKU-100",
+    "quantity": 4,
+    "unit_price": 799.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00067",
+    "order_date": "2026-09-27",
+    "customer_id": "C009",
+    "sku": "SKU-301",
+    "quantity": 2,
+    "unit_price": 450.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00068",
+    "order_date": "2026-09-17",
+    "customer_id": "C009",
+    "sku": "SKU-102",
+    "quantity": 1,
+    "unit_price": 1899.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00069",
+    "order_date": "2026-09-20",
+    "customer_id": "C001",
+    "sku": "SKU-102",
+    "quantity": 2,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00070",
+    "order_date": "2026-09-16",
+    "customer_id": "C010",
+    "sku": "SKU-102",
+    "quantity": 1,
+    "unit_price": 1899.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00071",
+    "order_date": "2026-09-11",
+    "customer_id": "C009",
+    "sku": "SKU-100",
+    "quantity": 5,
+    "unit_price": 799.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00072",
+    "order_date": "2026-09-26",
+    "customer_id": "C002",
+    "sku": "SKU-302",
+    "quantity": 5,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00073",
+    "order_date": "2026-09-07",
+    "customer_id": "C005",
+    "sku": "SKU-200",
+    "quantity": 1,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00074",
+    "order_date": "2026-09-18",
+    "customer_id": "C001",
+    "sku": "SKU-302",
+    "quantity": 1,
+    "unit_price": 1799.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00075",
+    "order_date": "2026-09-20",
+    "customer_id": "C009",
+    "sku": "SKU-300",
+    "quantity": 5,
+    "unit_price": 1299.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00076",
+    "order_date": "2026-09-23",
+    "customer_id": "C005",
+    "sku": "SKU-200",
+    "quantity": 4,
+    "unit_price": 120.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00077",
+    "order_date": "2026-09-17",
+    "customer_id": "C004",
+    "sku": "SKU-302",
+    "quantity": 5,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00078",
+    "order_date": "2026-09-27",
+    "customer_id": "C008",
+    "sku": "SKU-200",
+    "quantity": 2,
+    "unit_price": 120.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00079",
+    "order_date": "2026-09-13",
+    "customer_id": "C008",
+    "sku": "SKU-101",
+    "quantity": 3,
+    "unit_price": 3499.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00080",
+    "order_date": "2026-09-14",
+    "customer_id": "C002",
+    "sku": "SKU-200",
+    "quantity": 2,
+    "unit_price": 120.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00081",
+    "order_date": "2026-09-26",
+    "customer_id": "C002",
+    "sku": "SKU-201",
+    "quantity": 2,
+    "unit_price": 90.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00082",
+    "order_date": "2026-09-05",
+    "customer_id": "C005",
+    "sku": "SKU-300",
+    "quantity": 2,
+    "unit_price": 1299.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00083",
+    "order_date": "2026-09-24",
+    "customer_id": "C002",
+    "sku": "SKU-200",
+    "quantity": 4,
+    "unit_price": 120.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00084",
+    "order_date": "2026-09-22",
+    "customer_id": "C004",
+    "sku": "SKU-102",
+    "quantity": 2,
+    "unit_price": 1899.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00085",
+    "order_date": "2026-09-17",
+    "customer_id": "C007",
+    "sku": "SKU-301",
+    "quantity": 3,
+    "unit_price": 450.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00086",
+    "order_date": "2026-09-12",
+    "customer_id": "C006",
+    "sku": "SKU-200",
+    "quantity": 1,
+    "unit_price": 120.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00087",
+    "order_date": "2026-09-01",
+    "customer_id": "C006",
+    "sku": "SKU-300",
+    "quantity": 5,
+    "unit_price": 1299.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00088",
+    "order_date": "2026-09-23",
+    "customer_id": "C001",
+    "sku": "SKU-302",
+    "quantity": 4,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00089",
+    "order_date": "2026-09-17",
+    "customer_id": "C002",
+    "sku": "SKU-201",
+    "quantity": 1,
+    "unit_price": 90.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00090",
+    "order_date": "2026-09-03",
+    "customer_id": "C005",
+    "sku": "SKU-101",
+    "quantity": 3,
+    "unit_price": 3499.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00091",
+    "order_date": "2026-09-09",
+    "customer_id": "C003",
+    "sku": "SKU-102",
+    "quantity": 4,
+    "unit_price": 1899.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00092",
+    "order_date": "2026-09-13",
+    "customer_id": "C003",
+    "sku": "SKU-201",
+    "quantity": 5,
+    "unit_price": 90.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00093",
+    "order_date": "2026-09-23",
+    "customer_id": "C006",
+    "sku": "SKU-302",
+    "quantity": 1,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00094",
+    "order_date": "2026-09-26",
+    "customer_id": "C003",
+    "sku": "SKU-100",
+    "quantity": 4,
+    "unit_price": 799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00095",
+    "order_date": "2026-09-01",
+    "customer_id": "C002",
+    "sku": "SKU-201",
+    "quantity": 3,
+    "unit_price": 90.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00096",
+    "order_date": "2026-09-03",
+    "customer_id": "C005",
+    "sku": "SKU-200",
+    "quantity": 1,
+    "unit_price": 120.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00097",
+    "order_date": "2026-09-11",
+    "customer_id": "C009",
+    "sku": "SKU-100",
+    "quantity": 4,
+    "unit_price": 799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00098",
+    "order_date": "2026-09-02",
+    "customer_id": "C009",
+    "sku": "SKU-102",
+    "quantity": 2,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00099",
+    "order_date": "2026-09-09",
+    "customer_id": "C001",
+    "sku": "SKU-102",
+    "quantity": 2,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00100",
+    "order_date": "2026-09-21",
+    "customer_id": "C005",
+    "sku": "SKU-201",
+    "quantity": 5,
+    "unit_price": 90.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00101",
+    "order_date": "2026-09-15",
+    "customer_id": "C009",
+    "sku": "SKU-201",
+    "quantity": 2,
+    "unit_price": 90.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00102",
+    "order_date": "2026-09-26",
+    "customer_id": "C001",
+    "sku": "SKU-300",
+    "quantity": 3,
+    "unit_price": 1299.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00103",
+    "order_date": "2026-09-01",
+    "customer_id": "C009",
+    "sku": "SKU-100",
+    "quantity": 5,
+    "unit_price": 799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00104",
+    "order_date": "2026-09-08",
+    "customer_id": "C008",
+    "sku": "SKU-302",
+    "quantity": 1,
+    "unit_price": 1799.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00105",
+    "order_date": "2026-09-22",
+    "customer_id": "C008",
+    "sku": "SKU-301",
+    "quantity": 5,
+    "unit_price": 450.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00106",
+    "order_date": "2026-09-23",
+    "customer_id": "C004",
+    "sku": "SKU-201",
+    "quantity": 2,
+    "unit_price": 90.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00107",
+    "order_date": "2026-09-27",
+    "customer_id": "C003",
+    "sku": "SKU-200",
+    "quantity": 4,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00108",
+    "order_date": "2026-09-27",
+    "customer_id": "C003",
+    "sku": "SKU-100",
+    "quantity": 1,
+    "unit_price": 799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00109",
+    "order_date": "2026-09-14",
+    "customer_id": "C003",
+    "sku": "SKU-201",
+    "quantity": 1,
+    "unit_price": 90.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00110",
+    "order_date": "2026-09-28",
+    "customer_id": "C009",
+    "sku": "SKU-301",
+    "quantity": 3,
+    "unit_price": 450.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00111",
+    "order_date": "2026-09-23",
+    "customer_id": "C005",
+    "sku": "SKU-200",
+    "quantity": 1,
+    "unit_price": 120.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00112",
+    "order_date": "2026-09-06",
+    "customer_id": "C005",
+    "sku": "SKU-102",
+    "quantity": 4,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00113",
+    "order_date": "2026-09-12",
+    "customer_id": "C006",
+    "sku": "SKU-201",
+    "quantity": 5,
+    "unit_price": 90.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00114",
+    "order_date": "2026-09-02",
+    "customer_id": "C005",
+    "sku": "SKU-200",
+    "quantity": 2,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00115",
+    "order_date": "2026-09-01",
+    "customer_id": "C006",
+    "sku": "SKU-102",
+    "quantity": 4,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00116",
+    "order_date": "2026-09-09",
+    "customer_id": "C009",
+    "sku": "SKU-302",
+    "quantity": 2,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00117",
+    "order_date": "2026-09-03",
+    "customer_id": "C005",
+    "sku": "SKU-100",
+    "quantity": 1,
+    "unit_price": 799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00118",
+    "order_date": "2026-09-19",
+    "customer_id": "C001",
+    "sku": "SKU-301",
+    "quantity": 4,
+    "unit_price": 450.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00119",
+    "order_date": "2026-09-10",
+    "customer_id": "C004",
+    "sku": "SKU-201",
+    "quantity": 1,
+    "unit_price": 90.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00120",
+    "order_date": "2026-09-22",
+    "customer_id": "C010",
+    "sku": "SKU-102",
+    "quantity": 4,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00121",
+    "order_date": "2026-09-05",
+    "customer_id": "C005",
+    "sku": "SKU-302",
+    "quantity": 5,
+    "unit_price": 1799.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00122",
+    "order_date": "2026-09-02",
+    "customer_id": "C009",
+    "sku": "SKU-102",
+    "quantity": 4,
+    "unit_price": 1899.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00123",
+    "order_date": "2026-09-30",
+    "customer_id": "C009",
+    "sku": "SKU-102",
+    "quantity": 5,
+    "unit_price": 1899.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00124",
+    "order_date": "2026-09-27",
+    "customer_id": "C010",
+    "sku": "SKU-100",
+    "quantity": 2,
+    "unit_price": 799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00125",
+    "order_date": "2026-09-02",
+    "customer_id": "C003",
+    "sku": "SKU-100",
+    "quantity": 3,
+    "unit_price": 799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00126",
+    "order_date": "2026-09-27",
+    "customer_id": "C008",
+    "sku": "SKU-301",
+    "quantity": 5,
+    "unit_price": 450.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00127",
+    "order_date": "2026-09-21",
+    "customer_id": "C009",
+    "sku": "SKU-100",
+    "quantity": 2,
+    "unit_price": 799.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00128",
+    "order_date": "2026-09-01",
+    "customer_id": "C008",
+    "sku": "SKU-201",
+    "quantity": 1,
+    "unit_price": 90.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00129",
+    "order_date": "2026-09-22",
+    "customer_id": "C009",
+    "sku": "SKU-101",
+    "quantity": 1,
+    "unit_price": 3499.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00130",
+    "order_date": "2026-09-09",
+    "customer_id": "C002",
+    "sku": "SKU-302",
+    "quantity": 3,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00131",
+    "order_date": "2026-09-08",
+    "customer_id": "C008",
+    "sku": "SKU-200",
+    "quantity": 4,
+    "unit_price": 120.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00132",
+    "order_date": "2026-09-16",
+    "customer_id": "C005",
+    "sku": "SKU-101",
+    "quantity": 1,
+    "unit_price": 3499.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00133",
+    "order_date": "2026-09-03",
+    "customer_id": "C010",
+    "sku": "SKU-200",
+    "quantity": 2,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00134",
+    "order_date": "2026-09-21",
+    "customer_id": "C005",
+    "sku": "SKU-201",
+    "quantity": 5,
+    "unit_price": 90.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00135",
+    "order_date": "2026-09-01",
+    "customer_id": "C008",
+    "sku": "SKU-102",
+    "quantity": 1,
+    "unit_price": 1899.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00136",
+    "order_date": "2026-09-22",
+    "customer_id": "C002",
+    "sku": "SKU-201",
+    "quantity": 2,
+    "unit_price": 90.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00137",
+    "order_date": "2026-09-10",
+    "customer_id": "C009",
+    "sku": "SKU-302",
+    "quantity": 3,
+    "unit_price": 1799.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00138",
+    "order_date": "2026-09-15",
+    "customer_id": "C002",
+    "sku": "SKU-302",
+    "quantity": 5,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00139",
+    "order_date": "2026-09-03",
+    "customer_id": "C008",
+    "sku": "SKU-201",
+    "quantity": 1,
+    "unit_price": 90.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00140",
+    "order_date": "2026-09-03",
+    "customer_id": "C009",
+    "sku": "SKU-302",
+    "quantity": 4,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00141",
+    "order_date": "2026-09-07",
+    "customer_id": "C004",
+    "sku": "SKU-301",
+    "quantity": 1,
+    "unit_price": 450.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00142",
+    "order_date": "2026-09-05",
+    "customer_id": "C009",
+    "sku": "SKU-101",
+    "quantity": 3,
+    "unit_price": 3499.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00143",
+    "order_date": "2026-09-20",
+    "customer_id": "C009",
+    "sku": "SKU-102",
+    "quantity": 3,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00144",
+    "order_date": "2026-09-08",
+    "customer_id": "C008",
+    "sku": "SKU-300",
+    "quantity": 4,
+    "unit_price": 1299.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00145",
+    "order_date": "2026-09-06",
+    "customer_id": "C001",
+    "sku": "SKU-100",
+    "quantity": 4,
+    "unit_price": 799.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00146",
+    "order_date": "2026-09-13",
+    "customer_id": "C005",
+    "sku": "SKU-302",
+    "quantity": 2,
+    "unit_price": 1799.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00147",
+    "order_date": "2026-09-13",
+    "customer_id": "C006",
+    "sku": "SKU-300",
+    "quantity": 1,
+    "unit_price": 1299.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00148",
+    "order_date": "2026-09-11",
+    "customer_id": "C006",
+    "sku": "SKU-100",
+    "quantity": 4,
+    "unit_price": 799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00149",
+    "order_date": "2026-09-23",
+    "customer_id": "C001",
+    "sku": "SKU-200",
+    "quantity": 3,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00150",
+    "order_date": "2026-09-03",
+    "customer_id": "C007",
+    "sku": "SKU-300",
+    "quantity": 4,
+    "unit_price": 1299.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00151",
+    "order_date": "2026-09-12",
+    "customer_id": "C007",
+    "sku": "SKU-101",
+    "quantity": 3,
+    "unit_price": 3499.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00152",
+    "order_date": "2026-09-04",
+    "customer_id": "C001",
+    "sku": "SKU-201",
+    "quantity": 3,
+    "unit_price": 90.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00153",
+    "order_date": "2026-09-08",
+    "customer_id": "C005",
+    "sku": "SKU-102",
+    "quantity": 4,
+    "unit_price": 1899.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00154",
+    "order_date": "2026-09-07",
+    "customer_id": "C006",
+    "sku": "SKU-300",
+    "quantity": 4,
+    "unit_price": 1299.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00155",
+    "order_date": "2026-09-30",
+    "customer_id": "C009",
+    "sku": "SKU-301",
+    "quantity": 5,
+    "unit_price": 450.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00156",
+    "order_date": "2026-09-02",
+    "customer_id": "C007",
+    "sku": "SKU-101",
+    "quantity": 4,
+    "unit_price": 3499.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00157",
+    "order_date": "2026-09-21",
+    "customer_id": "C005",
+    "sku": "SKU-102",
+    "quantity": 4,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00158",
+    "order_date": "2026-09-06",
+    "customer_id": "C008",
+    "sku": "SKU-102",
+    "quantity": 4,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00159",
+    "order_date": "2026-09-10",
+    "customer_id": "C005",
+    "sku": "SKU-201",
+    "quantity": 3,
+    "unit_price": 90.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00160",
+    "order_date": "2026-09-10",
+    "customer_id": "C008",
+    "sku": "SKU-200",
+    "quantity": 5,
+    "unit_price": 120.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00161",
+    "order_date": "2026-09-04",
+    "customer_id": "C003",
+    "sku": "SKU-301",
+    "quantity": 2,
+    "unit_price": 450.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00162",
+    "order_date": "2026-09-17",
+    "customer_id": "C008",
+    "sku": "SKU-200",
+    "quantity": 5,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00163",
+    "order_date": "2026-09-30",
+    "customer_id": "C006",
+    "sku": "SKU-302",
+    "quantity": 4,
+    "unit_price": 1799.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00164",
+    "order_date": "2026-09-18",
+    "customer_id": "C004",
+    "sku": "SKU-102",
+    "quantity": 2,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00165",
+    "order_date": "2026-09-11",
+    "customer_id": "C009",
+    "sku": "SKU-102",
+    "quantity": 1,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00166",
+    "order_date": "2026-09-12",
+    "customer_id": "C005",
+    "sku": "SKU-200",
+    "quantity": 5,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00167",
+    "order_date": "2026-09-24",
+    "customer_id": "C007",
+    "sku": "SKU-100",
+    "quantity": 4,
+    "unit_price": 799.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00168",
+    "order_date": "2026-09-13",
+    "customer_id": "C005",
+    "sku": "SKU-200",
+    "quantity": 3,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00169",
+    "order_date": "2026-09-09",
+    "customer_id": "C010",
+    "sku": "SKU-302",
+    "quantity": 3,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00170",
+    "order_date": "2026-09-03",
+    "customer_id": "C005",
+    "sku": "SKU-200",
+    "quantity": 2,
+    "unit_price": 120.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00171",
+    "order_date": "2026-09-21",
+    "customer_id": "C008",
+    "sku": "SKU-301",
+    "quantity": 4,
+    "unit_price": 450.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00172",
+    "order_date": "2026-09-05",
+    "customer_id": "C001",
+    "sku": "SKU-100",
+    "quantity": 4,
+    "unit_price": 799.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00173",
+    "order_date": "2026-09-19",
+    "customer_id": "C008",
+    "sku": "SKU-302",
+    "quantity": 1,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00174",
+    "order_date": "2026-09-30",
+    "customer_id": "C009",
+    "sku": "SKU-301",
+    "quantity": 4,
+    "unit_price": 450.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00175",
+    "order_date": "2026-09-26",
+    "customer_id": "C002",
+    "sku": "SKU-200",
+    "quantity": 2,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00176",
+    "order_date": "2026-09-17",
+    "customer_id": "C002",
+    "sku": "SKU-102",
+    "quantity": 4,
+    "unit_price": 1899.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00177",
+    "order_date": "2026-09-01",
+    "customer_id": "C003",
+    "sku": "SKU-100",
+    "quantity": 2,
+    "unit_price": 799.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00178",
+    "order_date": "2026-09-21",
+    "customer_id": "C005",
+    "sku": "SKU-100",
+    "quantity": 2,
+    "unit_price": 799.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00179",
+    "order_date": "2026-09-17",
+    "customer_id": "C007",
+    "sku": "SKU-201",
+    "quantity": 1,
+    "unit_price": 90.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00180",
+    "order_date": "2026-09-10",
+    "customer_id": "C009",
+    "sku": "SKU-101",
+    "quantity": 5,
+    "unit_price": 3499.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00181",
+    "order_date": "2026-09-09",
+    "customer_id": "C004",
+    "sku": "SKU-301",
+    "quantity": 5,
+    "unit_price": 450.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00182",
+    "order_date": "2026-09-18",
+    "customer_id": "C005",
+    "sku": "SKU-100",
+    "quantity": 4,
+    "unit_price": 799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00183",
+    "order_date": "2026-09-21",
+    "customer_id": "C004",
+    "sku": "SKU-300",
+    "quantity": 4,
+    "unit_price": 1299.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00184",
+    "order_date": "2026-09-18",
+    "customer_id": "C004",
+    "sku": "SKU-200",
+    "quantity": 1,
+    "unit_price": 120.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00185",
+    "order_date": "2026-09-02",
+    "customer_id": "C001",
+    "sku": "SKU-201",
+    "quantity": 2,
+    "unit_price": 90.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00186",
+    "order_date": "2026-09-03",
+    "customer_id": "C005",
+    "sku": "SKU-301",
+    "quantity": 2,
+    "unit_price": 450.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00187",
+    "order_date": "2026-09-30",
+    "customer_id": "C006",
+    "sku": "SKU-301",
+    "quantity": 2,
+    "unit_price": 450.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00188",
+    "order_date": "2026-09-23",
+    "customer_id": "C006",
+    "sku": "SKU-100",
+    "quantity": 4,
+    "unit_price": 799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00189",
+    "order_date": "2026-09-07",
+    "customer_id": "C001",
+    "sku": "SKU-301",
+    "quantity": 3,
+    "unit_price": 450.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00190",
+    "order_date": "2026-09-07",
+    "customer_id": "C008",
+    "sku": "SKU-101",
+    "quantity": 2,
+    "unit_price": 3499.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00191",
+    "order_date": "2026-09-08",
+    "customer_id": "C008",
+    "sku": "SKU-200",
+    "quantity": 2,
+    "unit_price": 120.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00192",
+    "order_date": "2026-09-04",
+    "customer_id": "C010",
+    "sku": "SKU-201",
+    "quantity": 4,
+    "unit_price": 90.0,
+    "discount": 0.1
+  },
+  {
+    "order_id": "O00193",
+    "order_date": "2026-09-29",
+    "customer_id": "C004",
+    "sku": "SKU-102",
+    "quantity": 4,
+    "unit_price": 1899.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00194",
+    "order_date": "2026-09-20",
+    "customer_id": "C003",
+    "sku": "SKU-100",
+    "quantity": 4,
+    "unit_price": 799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00195",
+    "order_date": "2026-09-01",
+    "customer_id": "C010",
+    "sku": "SKU-200",
+    "quantity": 2,
+    "unit_price": 120.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00196",
+    "order_date": "2026-09-23",
+    "customer_id": "C001",
+    "sku": "SKU-100",
+    "quantity": 2,
+    "unit_price": 799.0,
+    "discount": 0.05
+  },
+  {
+    "order_id": "O00197",
+    "order_date": "2026-09-29",
+    "customer_id": "C006",
+    "sku": "SKU-302",
+    "quantity": 1,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00198",
+    "order_date": "2026-09-11",
+    "customer_id": "C004",
+    "sku": "SKU-102",
+    "quantity": 2,
+    "unit_price": 1899.0,
+    "discount": 0.2
+  },
+  {
+    "order_id": "O00199",
+    "order_date": "2026-09-02",
+    "customer_id": "C005",
+    "sku": "SKU-302",
+    "quantity": 4,
+    "unit_price": 1799.0,
+    "discount": 0.0
+  },
+  {
+    "order_id": "O00200",
+    "order_date": "2026-09-15",
+    "customer_id": "C003",
+    "sku": "SKU-300",
+    "quantity": 1,
+    "unit_price": 1299.0,
+    "discount": 0.0
+  }
+]

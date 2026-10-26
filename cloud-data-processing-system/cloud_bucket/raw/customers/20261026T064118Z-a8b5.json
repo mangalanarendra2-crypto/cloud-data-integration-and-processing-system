@@ -1,0 +1,52 @@
+[
+  {
+    "customer_id": "C001",
+    "name": "Asha Rao",
+    "country": "India"
+  },
+  {
+    "customer_id": "C002",
+    "name": "Ben Carter",
+    "country": "USA"
+  },
+  {
+    "customer_id": "C003",
+    "name": "Chen Wei",
+    "country": "Singapore"
+  },
+  {
+    "customer_id": "C004",
+    "name": "Divya Nair",
+    "country": "India"
+  },
+  {
+    "customer_id": "C005",
+    "name": "Emma Stone",
+    "country": "UK"
+  },
+  {
+    "customer_id": "C006",
+    "name": "Farid Khan",
+    "country": "UAE"
+  },
+  {
+    "customer_id": "C007",
+    "name": "Grace Lee",
+    "country": "USA"
+  },
+  {
+    "customer_id": "C008",
+    "name": "Hiro Tanaka",
+    "country": "Japan"
+  },
+  {
+    "customer_id": "C009",
+    "name": "Isha Mehta",
+    "country": "India"
+  },
+  {
+    "customer_id": "C010",
+    "name": "Jack Brown",
+    "country": "UK"
+  }
+]

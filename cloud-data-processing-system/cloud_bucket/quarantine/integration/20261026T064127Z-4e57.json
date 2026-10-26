@@ -1,0 +1,22 @@
+[
+  {
+    "order_id": "O00031",
+    "order_date": "2026-09-10",
+    "customer_id": "C001",
+    "sku": "SKU-999",
+    "quantity": 2,
+    "unit_price": 90.0,
+    "discount": 0.05,
+    "_reason": "UNKNOWN_PRODUCT"
+  },
+  {
+    "order_id": "O00041",
+    "order_date": "2026-09-04",
+    "customer_id": "C999",
+    "sku": "SKU-101",
+    "quantity": 4,
+    "unit_price": 3499.0,
+    "discount": 0.05,
+    "_reason": "UNKNOWN_CUSTOMER"
+  }
+]
